@@ -7,4 +7,5 @@ This application is a programmer's workbench of sorts.
 <image></image>
 https://archman.us/images/Screenshot_20240918_032938.png
 
+[Program Documentation](doxygen/html/index.html)
 
